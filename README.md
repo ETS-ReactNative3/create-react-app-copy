@@ -4,7 +4,9 @@ Create React apps with no build configuration. TEST HERE
 
 Arvind's GitTest from meeting
 
-Better change
+Danielle's gittest from meeting
+
+Chris' git test line
 
 - [Creating an App](#creating-an-app) – How to create a new app.
 - [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
